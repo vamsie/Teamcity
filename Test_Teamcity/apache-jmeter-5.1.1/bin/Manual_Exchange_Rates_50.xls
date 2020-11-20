@@ -1,0 +1,782 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>srikanth.bhimana</LastAuthor>
+  <Created>2020-01-07T13:07:49Z</Created>
+  <LastSaved>2020-01-08T09:55:30Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <CustomDocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <KSOProductBuildVer dt:dt="string">1033-11.2.0.9127</KSOProductBuildVer>
+ </CustomDocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>4155</WindowHeight>
+  <WindowWidth>11670</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:CharSet="134" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table12020-01-07 130731Z">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="179" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="15">
+   <Column ss:Width="99.75" ss:Span="1"/>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s67">
+    <Cell><Data ss:Type="String">Exchange Rate</Data></Cell>
+    <Cell><Data ss:Type="String">To Curr</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">78.50526</Data></Cell>
+    <Cell><Data ss:Type="String">AFN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">84.573748</Data></Cell>
+    <Cell><Data ss:Type="String">BDT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1727.115717</Data></Cell>
+    <Cell><Data ss:Type="String">ITL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.52194</Data></Cell>
+    <Cell><Data ss:Type="String">CYP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.891735</Data></Cell>
+    <Cell><Data ss:Type="String">EUR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">207.210941</Data></Cell>
+    <Cell><Data ss:Type="String">GYD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">122.624157</Data></Cell>
+    <Cell><Data ss:Type="String">ISK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">388.500389</Data></Cell>
+    <Cell><Data ss:Type="String">KZT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2155.172414</Data></Cell>
+    <Cell><Data ss:Type="String">MGF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">62500</Data></Cell>
+    <Cell><Data ss:Type="String">MZM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1.550893</Data></Cell>
+    <Cell><Data ss:Type="String">NZD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">65.44931</Data></Cell>
+    <Cell><Data ss:Type="String">RUB</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">578.368999</Data></Cell>
+    <Cell><Data ss:Type="String">SOS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">5.564397</Data></Cell>
+    <Cell><Data ss:Type="String">TRY</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">586.510264</Data></Cell>
+    <Cell><Data ss:Type="String">XAF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1.480933</Data></Cell>
+    <Cell><Data ss:Type="String">AUD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">6.90999</Data></Cell>
+    <Cell><Data ss:Type="String">BOB</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">713.775874</Data></Cell>
+    <Cell><Data ss:Type="String">CLP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">13.953423</Data></Cell>
+    <Cell><Data ss:Type="String">EEK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.828082</Data></Cell>
+    <Cell><Data ss:Type="String">GIP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">3.476048</Data></Cell>
+    <Cell><Data ss:Type="String">ILS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">438.788943</Data></Cell>
+    <Cell><Data ss:Type="String">KMF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.626748</Data></Cell>
+    <Cell><Data ss:Type="String">LVL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">35.900197</Data></Cell>
+    <Cell><Data ss:Type="String">MUR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">7462.686567</Data></Cell>
+    <Cell><Data ss:Type="String">SRG</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">3.860944</Data></Cell>
+    <Cell><Data ss:Type="String">PLN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1.38697</Data></Cell>
+    <Cell><Data ss:Type="String">SGD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9.43984</Data></Cell>
+    <Cell><Data ss:Type="String">TJS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">8620.689655</Data></Cell>
+    <Cell><Data ss:Type="String">UZS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">107.839965</Data></Cell>
+    <Cell><Data ss:Type="String">ALL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">35.972517</Data></Cell>
+    <Cell><Data ss:Type="String">BEF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">20408.163265</Data></Cell>
+    <Cell><Data ss:Type="String">BYR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">23.042537</Data></Cell>
+    <Cell><Data ss:Type="String">CZK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2.184837</Data></Cell>
+    <Cell><Data ss:Type="String">FJD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">7.84683</Data></Cell>
+    <Cell><Data ss:Type="String">HKD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.828082</Data></Cell>
+    <Cell><Data ss:Type="String">JEP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">8695.652174</Data></Cell>
+    <Cell><Data ss:Type="String">LAK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">54.854635</Data></Cell>
+    <Cell><Data ss:Type="String">MKD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">60.448528</Data></Cell>
+    <Cell><Data ss:Type="String">MZN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.384988</Data></Cell>
+    <Cell><Data ss:Type="String">OMR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">917.431193</Data></Cell>
+    <Cell><Data ss:Type="String">RWF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">7.456955</Data></Cell>
+    <Cell><Data ss:Type="String">SRD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">6.756072</Data></Cell>
+    <Cell><Data ss:Type="String">TTD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2.700003</Data></Cell>
+    <Cell><Data ss:Type="String">XCD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1.790129</Data></Cell>
+    <Cell><Data ss:Type="String">ANG</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.377009</Data></Cell>
+    <Cell><Data ss:Type="String">BHD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1652.892562</Data></Cell>
+    <Cell><Data ss:Type="String">CDF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">6.656239</Data></Cell>
+    <Cell><Data ss:Type="String">DKK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">5.84939</Data></Cell>
+    <Cell><Data ss:Type="String">FRF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">6.589699</Data></Cell>
+    <Cell><Data ss:Type="String">HRK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.70812</Data></Cell>
+    <Cell><Data ss:Type="String">JOD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">176.897223</Data></Cell>
+    <Cell><Data ss:Type="String">LKR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2666.666667</Data></Cell>
+    <Cell><Data ss:Type="String">MNT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">363.372093</Data></Cell>
+    <Cell><Data ss:Type="String">NGN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">3.382275</Data></Cell>
+    <Cell><Data ss:Type="String">PEN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">8.237232</Data></Cell>
+    <Cell><Data ss:Type="String">SBD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">8.749978</Data></Cell>
+    <Cell><Data ss:Type="String">SVC</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2304.147465</Data></Cell>
+    <Cell><Data ss:Type="String">TZS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">361.925443</Data></Cell>
+    <Cell><Data ss:Type="String">ZWD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">35.972517</Data></Cell>
+    <Cell><Data ss:Type="String">LUF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">BMD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.96926</Data></Cell>
+    <Cell><Data ss:Type="String">CHF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">119.445772</Data></Cell>
+    <Cell><Data ss:Type="String">DZD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.828082</Data></Cell>
+    <Cell><Data ss:Type="String">GGP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">289.1845</Data></Cell>
+    <Cell><Data ss:Type="String">HUF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">103.348491</Data></Cell>
+    <Cell><Data ss:Type="String">KES</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">15.301985</Data></Cell>
+    <Cell><Data ss:Type="String">LSL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">357.015352</Data></Cell>
+    <Cell><Data ss:Type="String">MRO</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1.965123</Data></Cell>
+    <Cell><Data ss:Type="String">NLG</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">52.202965</Data></Cell>
+    <Cell><Data ss:Type="String">PHP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4504.504505</Data></Cell>
+    <Cell><Data ss:Type="String">SDD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">15.301985</Data></Cell>
+    <Cell><Data ss:Type="String">SZL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">3690.0369</Data></Cell>
+    <Cell><Data ss:Type="String">UGX</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">15.301985</Data></Cell>
+    <Cell><Data ss:Type="String">ZAR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">3.672987</Data></Cell>
+    <Cell><Data ss:Type="String">AED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1.746591</Data></Cell>
+    <Cell><Data ss:Type="String">BAM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">71.408169</Data></Cell>
+    <Cell><Data ss:Type="String">BTN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">571.428571</Data></Cell>
+    <Cell><Data ss:Type="String">CRC</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">148.367953</Data></Cell>
+    <Cell><Data ss:Type="String">ESP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">303.859009</Data></Cell>
+    <Cell><Data ss:Type="String">GRD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1191.895113</Data></Cell>
+    <Cell><Data ss:Type="String">IQD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.30403</Data></Cell>
+    <Cell><Data ss:Type="String">KWD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">17.519885</Data></Cell>
+    <Cell><Data ss:Type="String">MDL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">19.602462</Data></Cell>
+    <Cell><Data ss:Type="String">MXN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">106.621175</Data></Cell>
+    <Cell><Data ss:Type="String">XPF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4.212247</Data></Cell>
+    <Cell><Data ss:Type="String">RON</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">26.865832</Data></Cell>
+    <Cell><Data ss:Type="String">SKK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2.294104</Data></Cell>
+    <Cell><Data ss:Type="String">TOP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">117.619384</Data></Cell>
+    <Cell><Data ss:Type="String">VUV</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">475.737393</Data></Cell>
+    <Cell><Data ss:Type="String">AMD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1.74405</Data></Cell>
+    <Cell><Data ss:Type="String">BGN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">BZD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">177.999288</Data></Cell>
+    <Cell><Data ss:Type="String">DJF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.828082</Data></Cell>
+    <Cell><Data ss:Type="String">FKP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">24.620839</Data></Cell>
+    <Cell><Data ss:Type="String">HNL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">134.843581</Data></Cell>
+    <Cell><Data ss:Type="String">JMD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1512.859304</Data></Cell>
+    <Cell><Data ss:Type="String">LBP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1508.295626</Data></Cell>
+    <Cell><Data ss:Type="String">MMK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">15.301985</Data></Cell>
+    <Cell><Data ss:Type="String">NAD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">PAB</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">3.751107</Data></Cell>
+    <Cell><Data ss:Type="String">SAR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">21739.130435</Data></Cell>
+    <Cell><Data ss:Type="String">STD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">31.402104</Data></Cell>
+    <Cell><Data ss:Type="String">TWD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">585.480094</Data></Cell>
+    <Cell><Data ss:Type="String">XOF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1.70009</Data></Cell>
+    <Cell><Data ss:Type="String">AZN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">BSD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">3424.657534</Data></Cell>
+    <Cell><Data ss:Type="String">COP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">14.999925</Data></Cell>
+    <Cell><Data ss:Type="String">ERN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9174.311927</Data></Cell>
+    <Cell><Data ss:Type="String">GNF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">71.428571</Data></Cell>
+    <Cell><Data ss:Type="String">INR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1216.545012</Data></Cell>
+    <Cell><Data ss:Type="String">KRW</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9.53307</Data></Cell>
+    <Cell><Data ss:Type="String">MAD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">728.862974</Data></Cell>
+    <Cell><Data ss:Type="String">MWK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.891735</Data></Cell>
+    <Cell><Data ss:Type="String">XEU</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">3.660135</Data></Cell>
+    <Cell><Data ss:Type="String">QAR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">213.720881</Data></Cell>
+    <Cell><Data ss:Type="String">SIT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2.842597</Data></Cell>
+    <Cell><Data ss:Type="String">TND</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">23255.813953</Data></Cell>
+    <Cell><Data ss:Type="String">VND</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1.790001</Data></Cell>
+    <Cell><Data ss:Type="String">AWG</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">3.985128</Data></Cell>
+    <Cell><Data ss:Type="String">BRL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">7.05806</Data></Cell>
+    <Cell><Data ss:Type="String">CNY</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">16.591177</Data></Cell>
+    <Cell><Data ss:Type="String">EGP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">50.640604</Data></Cell>
+    <Cell><Data ss:Type="String">GMD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.828082</Data></Cell>
+    <Cell><Data ss:Type="String">IMP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">900.090009</Data></Cell>
+    <Cell><Data ss:Type="String">KPW</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1.39805</Data></Cell>
+    <Cell><Data ss:Type="String">LYD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">15.360039</Data></Cell>
+    <Cell><Data ss:Type="String">MVR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1000000</Data></Cell>
+    <Cell><Data ss:Type="String">VEF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">6097.560976</Data></Cell>
+    <Cell><Data ss:Type="String">PYG</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.828082</Data></Cell>
+    <Cell><Data ss:Type="String">SHP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">17543.859649</Data></Cell>
+    <Cell><Data ss:Type="String">TMM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1000000</Data></Cell>
+    <Cell><Data ss:Type="String">VEB</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">358.422939</Data></Cell>
+    <Cell><Data ss:Type="String">AOA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1845.01845</Data></Cell>
+    <Cell><Data ss:Type="String">BIF</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">14285.714286</Data></Cell>
+    <Cell><Data ss:Type="String">IDR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">51.033427</Data></Cell>
+    <Cell><Data ss:Type="String">DOP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2.914381</Data></Cell>
+    <Cell><Data ss:Type="String">GEL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">95.00285</Data></Cell>
+    <Cell><Data ss:Type="String">HTG</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">105.296409</Data></Cell>
+    <Cell><Data ss:Type="String">JPY</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">203.086921</Data></Cell>
+    <Cell><Data ss:Type="String">LRD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">8.07637</Data></Cell>
+    <Cell><Data ss:Type="String">MOP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">33.495227</Data></Cell>
+    <Cell><Data ss:Type="String">NIO</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">3.395586</Data></Cell>
+    <Cell><Data ss:Type="String">PGK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">13.686069</Data></Cell>
+    <Cell><Data ss:Type="String">SCR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">514.933059</Data></Cell>
+    <Cell><Data ss:Type="String">SYP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">25.214958</Data></Cell>
+    <Cell><Data ss:Type="String">UAH</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">250.375563</Data></Cell>
+    <Cell><Data ss:Type="String">YER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">52.999788</Data></Cell>
+    <Cell><Data ss:Type="String">ARS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1.386649</Data></Cell>
+    <Cell><Data ss:Type="String">BND</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4098.360656</Data></Cell>
+    <Cell><Data ss:Type="String">KHR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">25000</Data></Cell>
+    <Cell><Data ss:Type="String">ECS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">5.445644</Data></Cell>
+    <Cell><Data ss:Type="String">GHS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.702298</Data></Cell>
+    <Cell><Data ss:Type="String">IEP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">69.866555</Data></Cell>
+    <Cell><Data ss:Type="String">KGS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">3.07915</Data></Cell>
+    <Cell><Data ss:Type="String">LTL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.382843</Data></Cell>
+    <Cell><Data ss:Type="String">MTL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">41666.666667</Data></Cell>
+    <Cell><Data ss:Type="String">ROL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">160.282096</Data></Cell>
+    <Cell><Data ss:Type="String">PKR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9.562424</Data></Cell>
+    <Cell><Data ss:Type="String">SEK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">30.854674</Data></Cell>
+    <Cell><Data ss:Type="String">THB</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">35.825601</Data></Cell>
+    <Cell><Data ss:Type="String">UYU</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">12987.012987</Data></Cell>
+    <Cell><Data ss:Type="String">ZMK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">8.916948</Data></Cell>
+    <Cell><Data ss:Type="String">NOK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">BBD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">11.068069</Data></Cell>
+    <Cell><Data ss:Type="String">BWP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">98.745927</Data></Cell>
+    <Cell><Data ss:Type="String">CVE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">29.191966</Data></Cell>
+    <Cell><Data ss:Type="String">ETB</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">7.668653</Data></Cell>
+    <Cell><Data ss:Type="String">GTQ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">41666.666667</Data></Cell>
+    <Cell><Data ss:Type="String">IRR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">0.820001</Data></Cell>
+    <Cell><Data ss:Type="String">KYD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">3676.470588</Data></Cell>
+    <Cell><Data ss:Type="String">MGA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4.197501</Data></Cell>
+    <Cell><Data ss:Type="String">MYR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">113.288773</Data></Cell>
+    <Cell><Data ss:Type="String">NPR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">104.9979</Data></Cell>
+    <Cell><Data ss:Type="String">RSD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9345.794393</Data></Cell>
+    <Cell><Data ss:Type="String">SLL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1000000</Data></Cell>
+    <Cell><Data ss:Type="String">TRL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2.658161</Data></Cell>
+    <Cell><Data ss:Type="String">WST</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3.4556659999999999</Data></Cell>
+    <Cell><Data ss:Type="String">IRR</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <PageBreakZoom>100</PageBreakZoom>
+   <Selected/>
+   <TopRowVisible>161</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>178</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
