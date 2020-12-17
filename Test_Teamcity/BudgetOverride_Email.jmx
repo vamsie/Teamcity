@@ -33,7 +33,7 @@
           <stringProp name="SMTPSampler.receiverTo">vamsi.kalki@atmecs.com</stringProp>
           <stringProp name="SMTPSampler.receiverCC"></stringProp>
           <stringProp name="SMTPSampler.receiverBCC"></stringProp>
-          <stringProp name="SMTPSampler.subject">Budget_override_requests-%build.number%</stringProp>
+          <stringProp name="SMTPSampler.subject">Budget_override_requests-${__P(buildnumber,)}</stringProp>
           <stringProp name="SMTPSampler.suppressSubject">false</stringProp>
           <stringProp name="SMTPSampler.include_timestamp">false</stringProp>
           <stringProp name="SMTPSampler.message">Hi Team,
@@ -42,7 +42,7 @@ Please find the below attached results.
 Thanks &amp; Regards
 Vamsi</stringProp>
           <stringProp name="SMTPSampler.plainBody">false</stringProp>
-          <stringProp name="SMTPSampler.attachFile">%system.teamcity.build.workingDir%\CsvResults\budgetoverride_%build.number%.csv</stringProp>
+          <stringProp name="SMTPSampler.attachFile">${__P(PathtoCsv,)}</stringProp>
           <stringProp name="SMTPSampler.useSSL">true</stringProp>
           <stringProp name="SMTPSampler.useStartTLS">false</stringProp>
           <stringProp name="SMTPSampler.trustAllCerts">false</stringProp>
