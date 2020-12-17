@@ -31,12 +31,13 @@
           <stringProp name="SMTPSampler.mailFrom">vamsi.kalki@atmecs.com</stringProp>
           <stringProp name="SMTPSampler.replyTo"></stringProp>
           <stringProp name="SMTPSampler.receiverTo">vamsi.kalki@atmecs.com</stringProp>
-          <stringProp name="SMTPSampler.receiverCC"></stringProp>
+          <stringProp name="SMTPSampler.receiverCC">kiran.katkuri@atmecs.com</stringProp>
           <stringProp name="SMTPSampler.receiverBCC"></stringProp>
           <stringProp name="SMTPSampler.subject">Budget_override_requests-${__P(buildNumber,)}</stringProp>
           <stringProp name="SMTPSampler.suppressSubject">false</stringProp>
           <stringProp name="SMTPSampler.include_timestamp">false</stringProp>
           <stringProp name="SMTPSampler.message">Hi Team,
+
 Please find the below attached results.
 
 Thanks &amp; Regards
