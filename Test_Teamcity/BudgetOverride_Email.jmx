@@ -33,7 +33,7 @@
           <stringProp name="SMTPSampler.receiverTo">vamsi.kalki@atmecs.com</stringProp>
           <stringProp name="SMTPSampler.receiverCC"></stringProp>
           <stringProp name="SMTPSampler.receiverBCC"></stringProp>
-          <stringProp name="SMTPSampler.subject">Budget_override_requests-${__P(buildnumber,)}</stringProp>
+          <stringProp name="SMTPSampler.subject">Budget_override_requests-${__P(buildNumber,)}</stringProp>
           <stringProp name="SMTPSampler.suppressSubject">false</stringProp>
           <stringProp name="SMTPSampler.include_timestamp">false</stringProp>
           <stringProp name="SMTPSampler.message">Hi Team,
