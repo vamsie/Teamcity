@@ -35,7 +35,7 @@
           <stringProp name="SMTPSampler.receiverBCC"></stringProp>
           <stringProp name="SMTPSampler.subject">TeamCity:Milestone1-${__P(buildNumber,)} Results</stringProp>
           <stringProp name="SMTPSampler.suppressSubject">false</stringProp>
-          <stringProp name="SMTPSampler.include_timestamp">true</stringProp>
+          <stringProp name="SMTPSampler.include_timestamp">false</stringProp>
           <stringProp name="SMTPSampler.message">Hi Team,
 
 Please find the below attached results.
